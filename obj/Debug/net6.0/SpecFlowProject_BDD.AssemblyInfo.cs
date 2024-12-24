@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlowProject_BDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a483ce39dd054ab330a8fcd18617b80316e45226")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9bcd209e2cf6ebf9c8ceba315a5052ed8ce72d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlowProject_BDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlowProject_BDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
